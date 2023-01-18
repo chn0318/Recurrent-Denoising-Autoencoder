@@ -1,0 +1,3 @@
+python train.py --name chn_test --data_dir  E:\Code_File\Machine_learning\train  --save_dir E:\Code_File\CG_chn\save --width 256 --height 256 --epochs 100
+
+python test.py  --test_dir E:\Code_File\CG_chn\test_data  --output_dir E:\Code_File\CG_chn\output  --checkpoint E:\Code_File\CG_chn\save\chn_test2_201.pt --width 256 --height 256
