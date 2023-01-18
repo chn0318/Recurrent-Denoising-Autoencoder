@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 **Video after noise reduction:**
 
-<img src="./pic/result.gif" alt="result 00_00_00-00_00_30" style="zoom:50%;" />
+<img src="./pic/result.gif" style="zoom:50%;" />
 
 ## Folder Structure
 
